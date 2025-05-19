@@ -1,6 +1,7 @@
 # Graph_Coloring
 
-![Petersen graph](https://github.com/user-attachments/assets/24f9887c-be50-476f-b20b-1cefa285f951)
+![Petersen graph](https://github.com/user-attachments/assets/52cdc7c4-51d6-488e-8eb6-c9a1bc7194da)
+
 
 
 The executable file used to check the feasibility of the solution can be run as, e.g.,
