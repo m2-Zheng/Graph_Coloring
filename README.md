@@ -1,4 +1,8 @@
 # Graph_Coloring
+
+![Petersen graph](https://github.com/user-attachments/assets/24f9887c-be50-476f-b20b-1cefa285f951)
+
+
 The executable file used to check the feasibility of the solution can be run as, e.g.,
 
 CheckSolution.exe 1-FullIns_3.txt 1-FullIns_3.col
