@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 VertexID	Color
 2	1
 5	1
@@ -10,3 +11,17 @@ VertexID	Color
 4	3
 9	3
 10	4
+=======
+VertexID	Color
+2	1
+5	1
+11	1
+6	2
+8	2
+3	2
+1	2
+7	3
+4	3
+9	3
+10	4
+>>>>>>> c1566aac1e68d9b0b39dec59fe8d8f314861d7ed
