@@ -1,5 +1,7 @@
 # Graph_Coloring
 
+The solution folder contains the solutions to 93 instances verified by our algorithm.
+
 ![Petersen graph](https://github.com/user-attachments/assets/52cdc7c4-51d6-488e-8eb6-c9a1bc7194da)
 
 
