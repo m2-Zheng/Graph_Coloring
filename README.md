@@ -2,7 +2,7 @@
 
 The solution folder contains the solutions to 93 instances verified by our algorithm.
 
-instance_reduction_clique.xlsx records the features of each instance after reduction, using the maximum clique size calculated by CliSAT(https://github.com/psanse/CliSAT) within 1 second.
+"instance_reduction_clique.xlsx" records the features of each instance after reduction, using the maximum clique size calculated by CliSAT(https://github.com/psanse/CliSAT) within 1 second.
 
 Instances after reduction are in instanceReduce folder.
 
@@ -10,7 +10,7 @@ Instances after reduction are in instanceReduce folder.
 
 
 
-The executable file used to check the feasibility of the solution can be run as, e.g.,
+The executable file "checkSolution.exe" used to check the feasibility of the solution can be run as, e.g.,
 
 CheckSolution.exe 1-FullIns_3.txt 1-FullIns_3.col
 
